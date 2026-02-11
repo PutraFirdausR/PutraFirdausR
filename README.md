@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=putrafirdausr&label=Profile%20views&color=0e75b6&style=flat" alt="putrafirdausr" /> </p>
 
-- 🔭 I’m currently working on [Freelance Project Product Catalog](https://omabling.vercel.app/)
+- 🔭 I’m currently working on [Freelance Project Web Unsoed FH](https://omabling.vercel.app/)
 
 - 🌱 I’m currently learning **NuxtJS, React**
 
