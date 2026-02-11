@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Freelance Project Web Unsoed FH
 
-- 🌱 I’m currently learning **PHP, Laravel**
+- 🌱 I’m currently learning **PHP, Laravel and Python**
 
 - 👨‍💻 All of my projects are available at [https://putrafirdaus-portofolio-v1.vercel.app/](https://putrafirdaus-portofolio-v1.vercel.app/)
 
