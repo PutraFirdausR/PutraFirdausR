@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Putra Firdaus Ramandani</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
+
 
 
 
