@@ -2,10 +2,6 @@
 
 ### A passionate frontend developer from Indonesia
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PutraFirdausR&label=Profile views&color=0e75b6&style=flat" alt="PutraFirdausR" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PutraFirdausR" alt="PutraFirdausR" /></a> </p>
-
 <img align="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
 
 - 🔭 I'm currently working on **Company Profile of the Faculty of Law, UNSOED**
