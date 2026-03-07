@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=putrafirdausr&label=Profile%20views&color=0e75b6&style=flat" alt="putrafirdausr" /> </p>
+
 
 - 🔭 I’m currently working on Freelance Project Web Unsoed FH
 
