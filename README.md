@@ -4,8 +4,6 @@
 
 <img align="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/195/195303.gif">
 
-- 🔭 I'm currently working on **Company Profile of the Faculty of Law, UNSOED**
-
 - 🌱 I'm currently learning **PHP, Laravel, and Python**
 
 - 💬 Ask me about **Javascript and Vue**
