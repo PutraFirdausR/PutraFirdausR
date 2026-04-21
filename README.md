@@ -1,6 +1,4 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey%20%F0%9F%91%8B%20What's%20up?&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&color=random"  />
-</div>
+<h1 align="center">Hey, 👋 What's up?</h1>
 
 ###
 
@@ -8,9 +6,13 @@
 
 ###
 
-<img align="right" height="200" src="https://aniyuki.com/wp-content/uploads/2023/09/aniyuki-gojo-satoru-gif-5.gif"  />
+<div align="center">
+  <img height="215" src="https://aniyuki.com/wp-content/uploads/2023/09/aniyuki-gojo-satoru-gif-5.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">About me</h2>
 
