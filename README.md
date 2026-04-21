@@ -1,10 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey%20%F0%9F%91%8B%20What's%20up?&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=ff95fa&strokeWidth=1&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey%20%F0%9F%91%8B%20What's%20up?&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&color=random"  />
 </div>
 
 ###
 
-<h4 align="left">My name is Putra Firdaus Ramandani and I'm a FrontEnd Developer, from Indonesia</h4>
+<h2 align="left">My name is Putra Firdaus Ramandani and I'm a FrontEnd Developer, from Indonesia</h2>
 
 ###
 
@@ -58,31 +58,29 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/putrafirdausr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/meputtra?igsh=MWNkd2JjN3IwODM0cA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/587847746296217601" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/PutraFirdausR/PutraFirdausR/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PutraFirdausR/PutraFirdausR/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PutraFirdausR/PutraFirdausR/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PutraFirdausR/PutraFirdausR/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PutraFirdausR&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PutraFirdausR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=76&section=footer&reversal=false&text=Let's%20collaborate!&fontSize=43&fontColor=bf00ff&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
 </div>
 
 ###
